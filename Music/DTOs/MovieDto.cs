@@ -6,6 +6,6 @@
         public string Name { get; set; }
         public string? MovieImage { get; set; }
 
-        public int ReleaseYear { get; set; }
+        public int Year { get; set; }
     }
 }
